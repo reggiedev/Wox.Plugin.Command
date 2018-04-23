@@ -1,0 +1,12 @@
+{
+  "ID": "5014e736c16c4bdcb9e026ae2fa7209c",
+  "ActionKeyword": "*",
+  "Name": "Command",
+  "Description": "Execute Applications with parameters",
+  "Author": "Reggie",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/Wox-launcher/Wox",
+  "ExecuteFileName": "Wox.Plugin.Command.dll",
+  "IcoPath": "Image\\app.png"
+}
